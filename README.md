@@ -15,8 +15,13 @@ Currently diving deep into EF Core, JS, and building real-world web apps. Always
 
 ### 🛠️ Featured Projects
 
-- 🔗 [My Blog Platform](https://github.com/mahmoodelbadri/your-blog-repo) — Blog system built using ASP.NET Core MVC + EF Core.
-- 💳 [Stripe Checkout](https://github.com/mahmoodelbadri/your-stripe-project) — Integrated Stripe payments in a full-stack e-commerce project.
+- 🔗 [My Blog Platform](https://github.com/MahmoodElbadri/Blog) — Blog system built using ASP.NET Core MVC + EF Core.
+- 💳 [Stripe Checkout](https://github.com/MahmoodElbadri/Resort) — Integrated Stripe payments in a full-stack e-commerce project.
+- 🏋️‍♂️ [Gonna-Buy-a-Fitness-Short](https://github.com/MahmoodElbadri/Gonna-Buy-a-fitness-short) — Automating Magento eCommerce website using Selenium with Java.
+- ✅ [TodoMvcApp](https://github.com/MahmoodElbadri/TodoMvcApp) — A simple To-Do application built with .NET.
+- 🍿 [Simple-Movies-Review-using-Clean-Architecture](https://github.com/MahmoodElbadri/Simple-Movies-Review-using-Clean-Architecture) — A web-based application built using .NET 8, following Clean Architecture principles.
+- 📝 [Tutorial-Comments-SpringBoot](https://github.com/MahmoodElbadri/Tutorial-Comments-SpringBoot) — A Spring Boot project to add comments functionality.
+- 🛠️ [CRUD-MVC-SpringBoot](https://github.com/MahmoodElbadri/CRUD-MVC-SpringBoot) — A simple CRUD application built with Spring Boot and MVC.
 
 ---
 
