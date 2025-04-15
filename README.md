@@ -67,6 +67,7 @@ Currently diving deep into EF Core, JS, and building real-world web apps. Always
 <p align="left">
 </p>
 
+---
 
 ### 🎯 Fun Facts
 - 💡 I started my career in QA, now I’m a .NET backend warrior ⚔️
