@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mahmood Salah Elbadri</h1>
 <h3 align="center">A passionate Backend Developer from Egypt</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahmoodelbadri&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 - 🌱 I’m currently learning **.Net, JS, EFW**
 - 💬 Ask me about **.Net**
 - 📫 How to reach me **mahmoud.elbadry357@gmail.com**
@@ -17,11 +21,11 @@ Currently diving deep into EF Core, JS, and building real-world web apps. Always
 
 - 🔗 [My Blog Platform](https://github.com/MahmoodElbadri/Blog) — Blog system built using ASP.NET Core MVC + EF Core.
 - 💳 [Stripe Checkout](https://github.com/MahmoodElbadri/Resort) — Integrated Stripe payments in a full-stack e-commerce project.
-- 🏋️‍♂️ [Gonna-Buy-a-Fitness-Short](https://github.com/MahmoodElbadri/Gonna-Buy-a-fitness-short) — Automating Magento eCommerce website using Selenium with Java.
-- ✅ [TodoMvcApp](https://github.com/MahmoodElbadri/TodoMvcApp) — A simple To-Do application built with .NET.
-- 🍿 [Simple-Movies-Review-using-Clean-Architecture](https://github.com/MahmoodElbadri/Simple-Movies-Review-using-Clean-Architecture) — A web-based application built using .NET 8, following Clean Architecture principles.
-- 📝 [Tutorial-Comments-SpringBoot](https://github.com/MahmoodElbadri/Tutorial-Comments-SpringBoot) — A Spring Boot project to add comments functionality.
-- 🛠️ [CRUD-MVC-SpringBoot](https://github.com/MahmoodElbadri/CRUD-MVC-SpringBoot) — A simple CRUD application built with Spring Boot and MVC.
+- 🛍️ [Gonna-Buy-a-fitness-short](https://github.com/MahmoodElbadri/Gonna-Buy-a-fitness-short) — Automating Magento e-commerce website using Selenium + Java.
+- ✅ [TodoMvcApp](https://github.com/MahmoodElbadri/TodoMvcApp)
+- 🎬 [Simple Movies Review](https://github.com/MahmoodElbadri/Simple-Movies-Review-using-Clean-Architecture) — Clean Architecture web app in .NET 8.
+- 💬 [Tutorial Comments SpringBoot](https://github.com/MahmoodElbadri/Tutorial-Comments-SpringBoot)
+- 🛠️ [CRUD MVC SpringBoot](https://github.com/MahmoodElbadri/CRUD-MVC-SpringBoot)
 
 ---
 
@@ -29,9 +33,15 @@ Currently diving deep into EF Core, JS, and building real-world web apps. Always
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat&logo=.net&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
@@ -45,8 +55,15 @@ Currently diving deep into EF Core, JS, and building real-world web apps. Always
 
 ### 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoodelbadri&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mahmoodelbadri" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoodelbadri&theme=tokyonight" alt="mahmoodelbadri" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoodelbadri&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoodelbadri&theme=tokyonight" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmoodelbadri&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
 ---
 
