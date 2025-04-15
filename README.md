@@ -58,14 +58,11 @@ Currently diving deep into EF Core, JS, and building real-world web apps. Always
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoodelbadri&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoodelbadri&theme=tokyonight" alt="GitHub Streak" />
-</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahmoodelbadri&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jjkdj" alt="jjkdj" /></a> </p>
-
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
