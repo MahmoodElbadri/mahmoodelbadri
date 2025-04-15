@@ -22,10 +22,10 @@ Currently diving deep into EF Core, JS, and building real-world web apps. Always
 - 🔗 [My Blog Platform](https://github.com/MahmoodElbadri/Blog) — Blog system built using ASP.NET Core MVC + EF Core.
 - 💳 [Stripe Checkout](https://github.com/MahmoodElbadri/Resort) — Integrated Stripe payments in a full-stack e-commerce project.
 - 🛍️ [Gonna-Buy-a-fitness-short](https://github.com/MahmoodElbadri/Gonna-Buy-a-fitness-short) — Automating Magento e-commerce website using Selenium + Java.
-- ✅ [TodoMvcApp](https://github.com/MahmoodElbadri/TodoMvcApp)
+- ✅ [TodoMvcApp](https://github.com/MahmoodElbadri/TodoMvcApp) — Full-stack .Net app using MVC and Razor pages
 - 🎬 [Simple Movies Review](https://github.com/MahmoodElbadri/Simple-Movies-Review-using-Clean-Architecture) — Clean Architecture web app in .NET 8.
-- 💬 [Tutorial Comments SpringBoot](https://github.com/MahmoodElbadri/Tutorial-Comments-SpringBoot)
-- 🛠️ [CRUD MVC SpringBoot](https://github.com/MahmoodElbadri/CRUD-MVC-SpringBoot)
+- 💬 [Tutorial Comments SpringBoot](https://github.com/MahmoodElbadri/Tutorial-Comments-SpringBoot) — Tutorial Comments using java Spring boot 
+- 🛠️ [CRUD MVC SpringBoot](https://github.com/MahmoodElbadri/CRUD-MVC-SpringBoot) — MVC app using java Spring boot to practice CRUD operations 
 
 ---
 
@@ -70,13 +70,6 @@ Currently diving deep into EF Core, JS, and building real-world web apps. Always
 <p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jjkdj&show_icons=true&locale=en&layout=compact" alt="jjkdj" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jjkdj&show_icons=true&locale=en" alt="jjkdj" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jjkdj&" alt="jjkdj" /></p>
-
----
 
 ### 🎯 Fun Facts
 - 💡 I started my career in QA, now I’m a .NET backend warrior ⚔️
