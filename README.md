@@ -62,10 +62,6 @@ Currently diving deep into EF Core, JS, and building real-world web apps. Always
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahmoodelbadri&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
----
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 ---
 
