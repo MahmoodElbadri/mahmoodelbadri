@@ -1,31 +1,32 @@
 <h1 align="center">Hi 👋, I'm Mahmood Salah Elbadri</h1>
-<h3 align="center">A passionate Backend Developer from Egypt</h3> 
+<h3 align="center">A passionate Backend Developer from Egypt 🇪🇬</h3> 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahmoodelbadri&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-- 🌱 I’m currently learning **.Net, JS, EFW**
-- 💬 Ask me about **.Net**
-- 📫 How to reach me **mahmoud.elbadry357@gmail.com**
-
 ---
 
 ### 🧑‍💻 About Me
+
 I'm a .NET Backend Developer with a testing background and a love for building clean, efficient systems.  
-Currently diving deep into EF Core, JS, and building real-world web apps. Always up for a tech challenge!
+Currently diving deep into EF Core, JS, and building real-world web apps. Always up for a tech challenge! 💡
+
+- 🌱 I’m currently learning **.NET, JavaScript, EF Core**
+- 💬 Ask me about **.NET or Clean Architecture**
+- 📫 Reach me at: **mahmoud.elbadry357@gmail.com**
 
 ---
 
-### 🛠️ Featured Projects
+### 🚀 Featured Projects
 
-- 🔗 [My Blog Platform](https://github.com/MahmoodElbadri/Blog) — Blog system built using ASP.NET Core MVC + EF Core.
-- 💳 [Stripe Checkout](https://github.com/MahmoodElbadri/Resort) — Integrated Stripe payments in a full-stack e-commerce project.
-- 🛍️ [Gonna-Buy-a-fitness-short](https://github.com/MahmoodElbadri/Gonna-Buy-a-fitness-short) — Automating Magento e-commerce website using Selenium + Java.
-- ✅ [TodoMvcApp](https://github.com/MahmoodElbadri/TodoMvcApp) — Full-stack .Net app using MVC and Razor pages
-- 🎬 [Simple Movies Review](https://github.com/MahmoodElbadri/Simple-Movies-Review-using-Clean-Architecture) — Clean Architecture web app in .NET 8.
-- 💬 [Tutorial Comments SpringBoot](https://github.com/MahmoodElbadri/Tutorial-Comments-SpringBoot) — Tutorial Comments using java Spring boot 
-- 🛠️ [CRUD MVC SpringBoot](https://github.com/MahmoodElbadri/CRUD-MVC-SpringBoot) — MVC app using java Spring boot to practice CRUD operations 
+- 🔗 [**Blog Platform**](https://github.com/MahmoodElbadri/Blog) — ASP.NET Core MVC + EF Core.
+- 💳 [**Stripe Checkout**](https://github.com/MahmoodElbadri/Resort) — Stripe payment integration.
+- 🛍️ [**Magento Automation**](https://github.com/MahmoodElbadri/Gonna-Buy-a-fitness-short) — E-commerce Automation using Selenium + Java.
+- ✅ [**TodoMvcApp**](https://github.com/MahmoodElbadri/TodoMvcApp) — .NET MVC + Razor Pages.
+- 🎬 [**Movie Review App**](https://github.com/MahmoodElbadri/Simple-Movies-Review-using-Clean-Architecture) — Clean Architecture with .NET 8.
+- 💬 [**Spring Boot Comments**](https://github.com/MahmoodElbadri/Tutorial-Comments-SpringBoot) — Java REST API.
+- 🔧 [**CRUD SpringBoot App**](https://github.com/MahmoodElbadri/CRUD-MVC-SpringBoot) — Practicing CRUD with SpringBoot.
 
 ---
 
@@ -33,7 +34,7 @@ Currently diving deep into EF Core, JS, and building real-world web apps. Always
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat&logo=.net&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=flat&logo=.net&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -45,10 +46,11 @@ Currently diving deep into EF Core, JS, and building real-world web apps. Always
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+### 🔗 Connect with me
+
 <p align="left">
-<a href="https://dev.to/therealbadri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="therealbadri" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mahmoodelbadri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoodelbadri" height="30" width="40" /></a>
+<a href="https://dev.to/therealbadri" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mahmoodelbadri" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 ---
@@ -56,19 +58,40 @@ Currently diving deep into EF Core, JS, and building real-world web apps. Always
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoodelbadri&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmoodelbadri&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoodelbadri&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoodElbadri&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoodelbadri&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MahmoodElbadri&theme=tokyonight&no-bg=true&no-frame=true&column=7" alt="GitHub Trophy" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmoodElbadri&theme=tokyonight&area=true" alt="Contribution Graph" />
 </p>
 
 ---
 
 ### 🎯 Fun Facts
-- 💡 I started my career in QA, now I’m a .NET backend warrior ⚔️
-- 🥒 I have a strong relationship with pickles 🥒😂
-- 🎧 I love listening to coding playlists while working
+
+- 💡 I started my career in QA, now I’m a .NET backend warrior ⚔️  
+- 🥒 I have a strong relationship with pickles 🥒😂  
+- 🎧 I love listening to chill coding playlists while working
 
 ---
 
