@@ -62,7 +62,7 @@ Currently diving deep into EF Core, JS, and building real-world web apps. Always
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MahmoodElbadri&theme=tokyonight" alt="GitHub Streak" />
+  <img src="[https://streak-stats.demolab.com/?user=MahmoodElbadri&theme=tokyonight](https://vercel.com/mahmoodelbadris-projects/github-readme-streak-stats/CJGP6efG7SHLUL7KhtfpozPPZfkd)" alt="GitHub Streak" />
 </p>
 
 
