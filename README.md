@@ -36,12 +36,8 @@ public class Mahmood
 
 ### 🗃️ Databases
 ![SQL Server](https://img.shields.io/badge/SQL_Server-2022-CC2927?logo=microsoftsqlserver&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?logo=postgresql&style=for-the-badge)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&style=for-the-badge)
 
 ### ⚙️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&style=for-the-badge)
-![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&style=for-the-badge)
 
