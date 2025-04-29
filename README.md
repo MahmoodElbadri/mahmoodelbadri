@@ -67,7 +67,7 @@ Currently diving deep into EF Core, JS, and building real-world web apps. Always
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoodelbadri&layout=compact&theme=tokyonight" alt="Top Languages" />
+  [![GitHub Streak](https://github-readme-streak-stats-five-mocha.vercel.app?user=MahmoodElbadri)](https://git.io/streak-stats)
 </p>
 
 ---
