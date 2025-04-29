@@ -1,5 +1,4 @@
 
-```markdown
 <h1 align="center">👋 Hello World! I'm Mahmood Salah Elbadri</h1>
 <h3 align="center">.NET Backend Developer | Software Craftsman | Problem Maker not Solver</h3>
 
