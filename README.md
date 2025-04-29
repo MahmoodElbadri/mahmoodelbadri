@@ -64,9 +64,7 @@ Currently diving deep into EF Core, JS, and building real-world web apps. Always
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-five-mocha.vercel.app?user=MahmoodElbadri" alt="GitHub Streak" /></a>
 </p>
 
-<p align="center">
-  <img src="[https://streak-stats.demolab.com/?user=MahmoodElbadri&theme=tokyonight](https://vercel.com/mahmoodelbadris-projects/github-readme-streak-stats/CJGP6efG7SHLUL7KhtfpozPPZfkd)" alt="GitHub Streak" />
-</p>
+
 
 
 ---
