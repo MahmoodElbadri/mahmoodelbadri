@@ -44,6 +44,13 @@ Currently diving deep into EF Core, JS, and building real-world web apps. Always
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
+### 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoodElbadri&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+</p>
+
+
 ---
 
 ### 🔗 Connect with me
