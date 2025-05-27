@@ -21,7 +21,7 @@ Currently diving deep into EF Core, JS, and building real-world web apps. Always
 ### 🚀 Featured Projects
 
 - 🔗 [**Blog Platform**](https://github.com/MahmoodElbadri/Blog) — ASP.NET Core MVC + EF Core.
-- 💳 [**Stripe Checkout**](https://github.com/MahmoodElbadri/Resort) — Stripe payment integration.
+- 💳 [**Resort**](https://github.com/MahmoodElbadri/Resort) — Stripe payment integration.
 - 🛍️ [**Magento Automation**](https://github.com/MahmoodElbadri/Gonna-Buy-a-fitness-short) — E-commerce Automation using Selenium + Java.
 - ✅ [**TodoMvcApp**](https://github.com/MahmoodElbadri/TodoMvcApp) — .NET MVC + Razor Pages.
 - 🎬 [**Movie Review App**](https://github.com/MahmoodElbadri/Simple-Movies-Review-using-Clean-Architecture) — Clean Architecture with .NET 8.
