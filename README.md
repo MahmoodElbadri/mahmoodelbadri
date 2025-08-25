@@ -1,3 +1,7 @@
+
+---
+
+```markdown
 <h1 align="center">Hi 👋, I'm Mahmood Salah Elbadri</h1>
 <h3 align="center">A passionate Backend Developer from Egypt 🇪🇬</h3> 
 
@@ -13,8 +17,9 @@ I'm a .NET Backend Developer with a testing background and a love for building c
 Currently diving deep into EF Core, JS, and building real-world web apps. Always up for a tech challenge! 💡
 
 - 🌱 I’m currently learning **.NET, JavaScript, EF Core**
-- 💬 Ask me about **.NET or EF Core or Sql Server or Software Testing (Manual, Automation)**
+- 💬 Ask me about **.NET or EF Core or SQL Server or Software Testing (Manual, Automation)**
 - 📫 Reach me at: **mahmoud.elbadry357@gmail.com**
+- 📱 WhatsApp me: **+20 106 649 4829**
 
 ---
 
@@ -58,6 +63,8 @@ Currently diving deep into EF Core, JS, and building real-world web apps. Always
 ### 🔗 Connect with me
 
 <p align="left">
+<a href="mailto:mahmoud.elbadry357@gmail.com" target="blank"><img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" height="30" width="40" /></a>
+<a href="https://wa.me/201099565685" target="blank"><img src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="WhatsApp" height="30" width="40" /></a>
 <a href="https://dev.to/therealbadri" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mahmoodelbadri" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
@@ -88,3 +95,8 @@ Currently diving deep into EF Core, JS, and building real-world web apps. Always
 ---
 
 ### 📅 2025 © Mahmood Salah Elbadri — Made with ❤️
+```
+
+---
+
+تحب أظبطلك نسخة **جاهزة كـ profile README** بحيث تبان في البروفايل بتاعك مباشرة (repo خاص باسمك)؟
