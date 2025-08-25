@@ -16,7 +16,7 @@ Currently diving deep into EF Core, JS, and building real-world web apps. Always
 - 🌱 I’m currently learning **.NET, JavaScript, EF Core**
 - 💬 Ask me about **.NET or EF Core or SQL Server or Software Testing (Manual, Automation)**
 - 📫 Reach me at: **mahmoud.elbadry357@gmail.com**
-- 📱 WhatsApp me: **+20 106 649 4829**
+- 📱 WhatsApp me: **+20 1099565685**
 
 ---
 
