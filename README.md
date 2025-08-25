@@ -59,7 +59,7 @@ Currently diving deep into EF Core, JS, and building real-world web apps. Always
 
 ### 🔗 Connect with me
 
-<p align="left">
+<p align="center">
 <a href="mailto:mahmoud.elbadry357@gmail.com" target="blank"><img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" height="30" width="40" /></a>
 <a href="https://wa.me/201099565685" target="blank"><img src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="WhatsApp" height="30" width="40" /></a>
 <a href="https://dev.to/therealbadri" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" /></a>
