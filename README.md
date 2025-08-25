@@ -95,5 +95,3 @@ Currently diving deep into EF Core, JS, and building real-world web apps. Always
 ```
 
 ---
-
-تحب أظبطلك نسخة **جاهزة كـ profile README** بحيث تبان في البروفايل بتاعك مباشرة (repo خاص باسمك)؟
