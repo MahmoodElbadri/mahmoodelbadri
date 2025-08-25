@@ -69,22 +69,7 @@ Currently diving deep into EF Core, JS, and building real-world web apps. Always
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahmoodelbadri&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p> 
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-five-mocha.vercel.app?user=MahmoodElbadri" alt="GitHub Streak" /></a>
-</p>
 
-
-
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MahmoodElbadri&theme=tokyonight&no-bg=true&no-frame=true&column=7" alt="GitHub Trophy" />
-</p>
-
----
 
 ### 📈 Contribution Graph
 
