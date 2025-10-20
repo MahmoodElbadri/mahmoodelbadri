@@ -28,11 +28,11 @@
 
 ### 🧑‍💻 About Me
 
-I'm a .NET Backend Developer with a testing background and a love for building clean, efficient systems.  
+I'm a Full Stack Developer with a testing background and a love for building clean, efficient systems.  
 Currently diving deep into EF Core, JS, and building real-world web apps. Always up for a tech challenge! 💡
 
-- 🌱 I’m currently learning **.NET, JavaScript, EF Core**
-- 💬 Ask me about **.NET or EF Core or SQL Server or Software Testing (Manual, Automation)**
+- 🌱 I’m currently learning **.NET, JavaScript, EF Core, Angular, Type Script**
+- 💬 Ask me about **.NET or EF Core or SQL Server or Type Script or Angular or Software Testing (Manual, Automation)**
 - 📫 Reach me at: **mahmoud.elbadry357@gmail.com**
 - 📱 WhatsApp me: **+20 1099565685**
 
