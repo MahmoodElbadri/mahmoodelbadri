@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Mahmood Salah Elbadri</h1>
 <h3 align="center">A passionate Full Stack Developer from Egypt 🇪🇬</h3> 
 
@@ -8,7 +7,7 @@
 
 ---
 
- ### ⚙️ Tech Stack  
+### ⚙️ Tech Stack  
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 [![Angular](https://img.shields.io/badge/Angular-16-DD0031?logo=angular&logoColor=white)](https://angular.io/)
@@ -50,24 +49,21 @@ Currently diving deep into EF Core, JS, and building real-world web apps. Always
 
 ---
 
-
-
 ### 💻 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoodElbadri&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
 </p>
 
-
 ---
 
 ### 🔗 Connect with me
 
 <p align="center">
-<a href="mailto:mahmoud.elbadry357@gmail.com" target="blank"><img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" height="30" width="40" /></a>
-<a href="https://wa.me/201099565685" target="blank"><img src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="WhatsApp" height="30" width="40" /></a>
-<a href="https://dev.to/therealbadri" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mahmoodelbadri" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="mailto:mahmoud.elbadry357@gmail.com" target="blank"><img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" height="30" width="40" /></a>
+  <a href="https://wa.me/201099565685" target="blank"><img src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="WhatsApp" height="30" width="40" /></a>
+  <a href="https://dev.to/therealbadri" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/mahmoodelbadri" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 ---
@@ -75,9 +71,12 @@ Currently diving deep into EF Core, JS, and building real-world web apps. Always
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahmoodelbadri&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p> 
+  <img src="https://github-readme-stats.vercel.app/api?username=MahmoodElbadri&show_icons=true&theme=radical" alt="Badri's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MahmoodElbadri&theme=radical" alt="GitHub Streak" />
+</p>
 
+---
 
 ### 📈 Contribution Graph
 
@@ -100,4 +99,3 @@ Made with ❤️ by Mahmoud Salah Elbadri (Badri)
 <br/>
 <sub>Backend & Frontend Developer — turning caffeine into clean code ☕.</sub>
 </div>
-
