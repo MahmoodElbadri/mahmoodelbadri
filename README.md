@@ -36,23 +36,27 @@
 I'm a Full Stack Developer with a testing background and a love for building clean, efficient systems.  
 Currently diving deep into EF Core, JS, and building real-world web apps. Always up for a tech challenge! 💡
 
-- 🌍 **Portfolio:** [**Check out my work here!**](https://elbadri-portfolio.netlify.app/)
-- 🌱 I’m currently learning **.NET, JavaScript, EF Core, Angular, Type Script**
-- 💬 Ask me about **.NET or EF Core or SQL Server or Type Script or Angular or Software Testing (Manual, Automation)**
-- 📫 Reach me at: **mahmoud.elbadry357@gmail.com**
-- 📱 WhatsApp me: **+20 1099565685**
+<ul>
+  <li>🌍 <strong>Portfolio:</strong> <a href="https://elbadri-portfolio.netlify.app/" target="_blank"><strong>Check out my work here!</strong></a></li>
+  <li>🌱 I’m currently learning <strong>.NET, JavaScript, EF Core, Angular, Type Script</strong></li>
+  <li>💬 Ask me about <strong>.NET or EF Core or SQL Server or Type Script or Angular or Software Testing (Manual, Automation)</strong></li>
+  <li>📫 Reach me at: <strong>mahmoud.elbadry357@gmail.com</strong></li>
+  <li>📱 WhatsApp me: <strong>+20 1099565685</strong></li>
+</ul>
 
 ---
 
 ### 🚀 Featured Projects
 
-- 🔗 [**Blog Platform**](https://github.com/MahmoodElbadri/Blog) — ASP.NET Core MVC + EF Core.
-- 💳 [**Resort**](https://github.com/MahmoodElbadri/Resort) — Stripe payment integration.
-- 🛍️ [**Magento Automation**](https://github.com/MahmoodElbadri/Gonna-Buy-a-fitness-short) — E-commerce Automation using Selenium + Java.
-- ✅ [**TodoMvcApp**](https://github.com/MahmoodElbadri/TodoMvcApp) — .NET MVC + Razor Pages.
-- 🎬 [**Movie Review App**](https://github.com/MahmoodElbadri/Simple-Movies-Review-using-Clean-Architecture) — Clean Architecture with .NET 8.
-- 💬 [**Spring Boot Comments**](https://github.com/MahmoodElbadri/Tutorial-Comments-SpringBoot) — Java REST API.
-- 🔧 [**CRUD SpringBoot App**](https://github.com/MahmoodElbadri/CRUD-MVC-SpringBoot) — Practicing CRUD with SpringBoot.
+<ul>
+  <li>🔗 <a href="https://github.com/MahmoodElbadri/Blog" target="_blank"><strong>Blog Platform</strong></a> — ASP.NET Core MVC + EF Core.</li>
+  <li>💳 <a href="https://github.com/MahmoodElbadri/Resort" target="_blank"><strong>Resort</strong></a> — Stripe payment integration.</li>
+  <li>🛍️ <a href="https://github.com/MahmoodElbadri/Gonna-Buy-a-fitness-short" target="_blank"><strong>Magento Automation</strong></a> — E-commerce Automation using Selenium + Java.</li>
+  <li>✅ <a href="https://github.com/MahmoodElbadri/TodoMvcApp" target="_blank"><strong>TodoMvcApp</strong></a> — .NET MVC + Razor Pages.</li>
+  <li>🎬 <a href="https://github.com/MahmoodElbadri/Simple-Movies-Review-using-Clean-Architecture" target="_blank"><strong>Movie Review App</strong></a> — Clean Architecture with .NET 8.</li>
+  <li>💬 <a href="https://github.com/MahmoodElbadri/Tutorial-Comments-SpringBoot" target="_blank"><strong>Spring Boot Comments</strong></a> — Java REST API.</li>
+  <li>🔧 <a href="https://github.com/MahmoodElbadri/CRUD-MVC-SpringBoot" target="_blank"><strong>CRUD SpringBoot App</strong></a> — Practicing CRUD with SpringBoot.</li>
+</ul>
 
 ---
 
@@ -67,11 +71,11 @@ Currently diving deep into EF Core, JS, and building real-world web apps. Always
 ### 🔗 Connect with me
 
 <p align="center">
-  <a href="https://elbadri-portfolio.netlify.app/" target="blank"><img src="https://img.icons8.com/fluency/48/internet.png" alt="Portfolio" height="30" width="40" title="My Portfolio"/></a>
-  <a href="mailto:mahmoud.elbadry357@gmail.com" target="blank"><img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" height="30" width="40" /></a>
-  <a href="https://wa.me/201099565685" target="blank"><img src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="WhatsApp" height="30" width="40" /></a>
-  <a href="https://dev.to/therealbadri" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/mahmoodelbadri" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://elbadri-portfolio.netlify.app/" target="_blank"><img src="https://img.icons8.com/fluency/48/internet.png" alt="Portfolio" height="30" width="40" title="My Portfolio"/></a>
+  <a href="mailto:mahmoud.elbadry357@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" height="30" width="40" /></a>
+  <a href="https://wa.me/201099565685" target="_blank"><img src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="WhatsApp" height="30" width="40" /></a>
+  <a href="https://dev.to/therealbadri" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/mahmoodelbadri" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 ---
