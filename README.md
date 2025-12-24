@@ -2,6 +2,12 @@
 <h3 align="center">A passionate Full Stack Developer from Egypt 🇪🇬</h3> 
 
 <p align="center">
+  <a href="https://elbadri-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahmoodelbadri&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
@@ -30,6 +36,7 @@
 I'm a Full Stack Developer with a testing background and a love for building clean, efficient systems.  
 Currently diving deep into EF Core, JS, and building real-world web apps. Always up for a tech challenge! 💡
 
+- 🌍 **Portfolio:** [**Check out my work here!**](https://elbadri-portfolio.netlify.app/)
 - 🌱 I’m currently learning **.NET, JavaScript, EF Core, Angular, Type Script**
 - 💬 Ask me about **.NET or EF Core or SQL Server or Type Script or Angular or Software Testing (Manual, Automation)**
 - 📫 Reach me at: **mahmoud.elbadry357@gmail.com**
@@ -60,6 +67,7 @@ Currently diving deep into EF Core, JS, and building real-world web apps. Always
 ### 🔗 Connect with me
 
 <p align="center">
+  <a href="https://elbadri-portfolio.netlify.app/" target="blank"><img src="https://img.icons8.com/fluency/48/internet.png" alt="Portfolio" height="30" width="40" title="My Portfolio"/></a>
   <a href="mailto:mahmoud.elbadry357@gmail.com" target="blank"><img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" height="30" width="40" /></a>
   <a href="https://wa.me/201099565685" target="blank"><img src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="WhatsApp" height="30" width="40" /></a>
   <a href="https://dev.to/therealbadri" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" /></a>
@@ -88,8 +96,8 @@ Currently diving deep into EF Core, JS, and building real-world web apps. Always
 
 ### 🎯 Fun Facts
 
-- 💡 I started my career in QA, now I’m a .NET backend warrior ⚔️  
-- 🥒 I have a strong relationship with pickles 🥒😂  
+- 💡 I started my career in QA, now I’m a .NET backend warrior ⚔️ 
+- 🥒 I have a strong relationship with pickles 🥒😂 
 - 🎧 I love listening to chill coding playlists while working
 
 ---
