@@ -13,6 +13,14 @@
 
 ---
 
+### 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MahmoodElbadri&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" />
+</div>
+
+---
+
 ### ⚙️ Tech Stack  
 
 <p align="center">
@@ -30,7 +38,6 @@
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
-
 
 ---
 
@@ -66,7 +73,7 @@ Currently diving deep into EF Core, JS, and building real-world web apps. Always
 ### 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoodElbadri&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MahmoodElbadri&theme=github_dark" alt="Most Used Languages" />
 </p>
 
 ---
@@ -85,19 +92,17 @@ Currently diving deep into EF Core, JS, and building real-world web apps. Always
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahmoodElbadri&show_icons=true&theme=radical" alt="Badri's GitHub stats" />
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MahmoodElbadri&theme=github_dark" alt="GitHub Stats" />
+  
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MahmoodElbadri&theme=radical" alt="GitHub Streak" />
-</p>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MahmoodElbadri&theme=github_dark" alt="Productive Time" />
 
----
+  <br/>
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmoodElbadri&theme=tokyonight&area=true" alt="Contribution Graph" />
-</p>
+  <img src="https://streak-stats.demolab.com/?user=MahmoodElbadri&theme=highcontrast&hide_border=true" height="135" alt="GitHub Streak" />
+</div>
 
 ---
 
