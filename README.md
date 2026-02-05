@@ -18,6 +18,10 @@ Currently diving deep into .NET, EF Core, Angular, and TypeScript to build real-
 - 📫 Reach me at: **mahmoud.elbadry357@gmail.com**
 - 📱 WhatsApp: **+20 1099565685**
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mahmoodelbadri&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -79,6 +83,41 @@ Currently diving deep into .NET, EF Core, Angular, and TypeScript to build real-
 
 ---
 
+## 🎯 Technical Focus Areas
+
+### 🔧 **Backend Development**
+- Building RESTful APIs with ASP.NET Core Web API
+- Implementing Clean Architecture and Repository Pattern
+- Database design and optimization with SQL Server & EF Core
+- Authentication & Authorization (JWT, Identity)
+
+### 🎨 **Frontend Development**
+- Single Page Applications with Angular
+- TypeScript for type-safe frontend development
+- Responsive UI with Bootstrap and CSS3
+- State management and component architecture
+
+### ⚙️ **DevOps & Best Practices**
+- Version control with Git & GitHub
+- API testing using Postman
+- Following SOLID principles and Design Patterns
+
+### 🔍 **Quality Assurance**
+- Manual and automated testing experience
+- Test automation with Selenium
+- Understanding of SDLC and Agile methodologies
+- Bug tracking and reporting
+
+---
+
+## 🚀 Professional Goals
+1. **Master .NET Ecosystem** – Deep dive into advanced .NET concepts and microservices architecture
+2. **Build Scalable Solutions** – Develop enterprise-level applications with clean architecture
+3. **Full Stack Excellence** – Achieve proficiency in both backend (.NET) and frontend (Angular)
+4. **Contribute to Open Source** – Participate in meaningful open-source .NET projects
+
+---
+
 ## 🤝 Connect with Me
 
 <p align="center">
@@ -88,13 +127,6 @@ Currently diving deep into .NET, EF Core, Angular, and TypeScript to build real-
   <a href="https://wa.me/201099565685" target="_blank"><img src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="WhatsApp" height="30" width="40" /></a>
   <a href="https://dev.to/therealbadri" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" /></a>
 </p>
-
----
-
-## 🎯 Fun Facts
-- 💡 Started my career in QA, now a .NET backend developer ⚔️
-- 🥒 Have a strong relationship with pickles 🥒😂
-- 🎧 Love listening to chill coding playlists while working
 
 ---
 
