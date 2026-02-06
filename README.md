@@ -12,7 +12,7 @@
 I'm a Full Stack Developer with a testing background and a passion for building clean, efficient systems.  
 Currently diving deep into .NET, EF Core, Angular, and TypeScript to build real-world web applications. Always ready for a technical challenge! 💡
 
-- 🌍 **Portfolio:** [elbadri-portfolio.netlify.app]([https://elbadri-portfolio.netlify.app/](https://mahmood-elbadri.netlify.app/#contact))
+- 🌍 **Portfolio:** [Visit!](https://mahmood-elbadri.netlify.app)
 - 🌱 Currently learning **.NET, JavaScript, EF Core, Angular, TypeScript**
 - 💬 Ask me about **.NET, EF Core, SQL Server, TypeScript, Angular, Software Testing (Manual & Automation)**
 - 📫 Reach me at: **mahmoud.elbadry357@gmail.com**
