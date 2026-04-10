@@ -81,42 +81,6 @@ Currently diving deep into .NET, EF Core, Angular, and TypeScript to build real-
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote Card" />
 </div>
 
----
-
-## 🎯 Technical Focus Areas
-
-### 🔧 **Backend Development**
-- Building RESTful APIs with ASP.NET Core Web API
-- Implementing Clean Architecture and Repository Pattern
-- Database design and optimization with SQL Server & EF Core
-- Authentication & Authorization (JWT, Identity)
-
-### 🎨 **Frontend Development**
-- Single Page Applications with Angular
-- TypeScript for type-safe frontend development
-- Responsive UI with Bootstrap and CSS3
-- State management and component architecture
-
-### ⚙️ **DevOps & Best Practices**
-- Version control with Git & GitHub
-- API testing using Postman
-- Following SOLID principles and Design Patterns
-
-### 🔍 **Quality Assurance**
-- Manual and automated testing experience
-- Test automation with Selenium
-- Understanding of SDLC and Agile methodologies
-- Bug tracking and reporting
-
----
-
-## 🚀 Professional Goals
-1. **Master .NET Ecosystem** – Deep dive into advanced .NET concepts and microservices architecture
-2. **Build Scalable Solutions** – Develop enterprise-level applications with clean architecture
-3. **Full Stack Excellence** – Achieve proficiency in both backend (.NET) and frontend (Angular)
-4. **Contribute to Open Source** – Participate in meaningful open-source .NET projects
-
----
 
 ## 🤝 Connect with Me
 
