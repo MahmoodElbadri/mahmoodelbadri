@@ -58,6 +58,14 @@ Currently diving deep into .NET, EF Core, Angular, and TypeScript to build real-
 
 ---
 
+## 🔥 Contribution Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoodElbadri&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+</div>
+
+---
+
 ## 💬 Daily Quote
 
 <div align="center">
@@ -68,7 +76,7 @@ Currently diving deep into .NET, EF Core, Angular, and TypeScript to build real-
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://elbadri-portfolio.netlify.app/" target="_blank"><img src="https://img.icons8.com/fluency/48/internet.png" alt="Portfolio" height="30" width="40" title="My Portfolio"/></a>
+  <a href="https://mahmood-elbadri.netlify.app" target="_blank"><img src="https://img.icons8.com/fluency/48/internet.png" alt="Portfolio" height="30" width="40" title="My Portfolio"/></a>
   <a href="https://linkedin.com/in/mahmoodelbadri" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="mailto:mahmoud.elbadry357@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" height="30" width="40" /></a>
   <a href="https://wa.me/201099565685" target="_blank"><img src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="WhatsApp" height="30" width="40" /></a>
