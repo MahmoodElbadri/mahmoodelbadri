@@ -46,23 +46,6 @@ Currently diving deep into .NET, EF Core, Angular, and TypeScript to build real-
 
 ---
 
-## 📂 Featured Projects
-
-### 🧠 **.NET / Backend Focus**
-- **[Blog Platform](https://github.com/MahmoodElbadri/Blog)** – ASP.NET Core MVC + EF Core
-- **[Resort](https://github.com/MahmoodElbadri/Resort)** – Stripe payment integration
-- **[TodoMvcApp](https://github.com/MahmoodElbadri/TodoMvcApp)** – .NET MVC + Razor Pages
-- **[Movie Review App](https://github.com/MahmoodElbadri/Simple-Movies-Review-using-Clean-Architecture)** – Clean Architecture with .NET 8
-
-### 🧪 **Testing & Automation**
-- **[Magento Automation](https://github.com/MahmoodElbadri/Gonna-Buy-a-fitness-short)** – E-commerce Automation using Selenium + Java
-
-### ☕ **Java / Spring Boot**
-- **[Spring Boot Comments](https://github.com/MahmoodElbadri/Tutorial-Comments-SpringBoot)** – Java REST API
-- **[CRUD SpringBoot App](https://github.com/MahmoodElbadri/CRUD-MVC-SpringBoot)** – Practicing CRUD with SpringBoot
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
