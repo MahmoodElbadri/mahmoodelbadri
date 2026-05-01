@@ -3,7 +3,7 @@
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=30F050&center=true&vCenter=true&width=500&lines=Full+Stack+.NET+Developer;C%23+%26+Angular+Specialist;Building+Scalable+REST+APIs;Automation+Testing+Background;Writing+Clean+%26+Efficient+Code;SQL+Server+%26+Database+Design" alt="Typing SVG" />
   <br/>
-</div>
+</div> 
 
 ---
 
