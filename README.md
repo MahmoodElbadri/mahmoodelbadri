@@ -75,13 +75,7 @@ Currently diving deep into .NET, EF Core, Angular, and TypeScript to build real-
 
 ## 🤝 Connect with Me
 
-<p align="center">
-  <a href="https://mahmood-elbadri.netlify.app" target="_blank"><img src="https://img.icons8.com/fluency/48/internet.png" alt="Portfolio"  title="My Portfolio"/></a>
-  <a href="https://linkedin.com/in/mahmoodelbadri" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" /></a>
-  <a href="mailto:mahmoud.elbadry357@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" /></a>
-  <a href="https://wa.me/201099565685" target="_blank"><img src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="WhatsApp"  /></a>
-  <a href="https://dev.to/therealbadri" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"  /></a>
-</p>
+<p align="center"> <a href="https://mahmood-elbadri.netlify.app" target="_blank"><img src="https://img.icons8.com/fluency/48/internet.png" alt="Portfolio" title="My Portfolio"/></a>&nbsp;&nbsp; <a href="https://linkedin.com/in/mahmoodelbadri" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="48" height="48"/></a>&nbsp;&nbsp; <a href="mailto:mahmoud.elbadry357@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail"/></a>&nbsp;&nbsp; <a href="https://wa.me/201099565685" target="_blank"><img src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="WhatsApp"/></a>&nbsp;&nbsp; <a href="https://dev.to/therealbadri" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" width="48" height="48"/></a> </p>
 
 ---
 
